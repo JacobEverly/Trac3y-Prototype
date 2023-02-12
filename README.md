@@ -4,6 +4,9 @@ Code for the physical device for Trac3y. Inlcudes code for doing read outs from 
 
 # Code
 
+Reader: Setup to have the NFC chip readeable to Smart Phone Protocols
+
+Writer: Producing the reports and signatures based of data being collected from the sensors
 
 # The overview of the Cryptographic ideas used in generating keys and verifying reports:
 
